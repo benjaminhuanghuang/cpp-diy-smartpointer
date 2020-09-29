@@ -1,0 +1,9 @@
+.DS_Store
+bin/
+debug/
+*.out
+*.exe
+*.o
+*.bin
+CMakeCache.txt
+*.exe.*
